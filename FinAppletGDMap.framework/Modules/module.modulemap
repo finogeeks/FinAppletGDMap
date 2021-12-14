@@ -1,0 +1,6 @@
+framework module FinAppletGDMap {
+  umbrella header "FinAppletGDMap.h"
+
+  export *
+  module * { export * }
+}
