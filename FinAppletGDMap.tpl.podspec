@@ -22,5 +22,4 @@ Pod::Spec.new do |s|
   s.dependency 'AMapLocation-NO-IDFA'
   s.dependency 'AMapSearch-NO-IDFA'
   s.dependency 'FinAppletExt','_FinAppletGDMap_version_'
-  //
 end
