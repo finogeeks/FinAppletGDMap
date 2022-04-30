@@ -21,6 +21,7 @@ Pod::Spec.new do |s|
   s.dependency 'AMap3DMap-NO-IDFA'
   s.dependency 'AMapLocation-NO-IDFA'
   s.dependency 'AMapSearch-NO-IDFA'
+  s.dependency 'MJRefresh'
   s.dependency 'FinAppletExt','2.36.7'
   s.pod_target_xcconfig = {
     'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
