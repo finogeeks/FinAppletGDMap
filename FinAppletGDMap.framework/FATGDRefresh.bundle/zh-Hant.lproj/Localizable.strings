@@ -1,0 +1,19 @@
+"FATGDRefreshHeaderIdleText" = "下拉可以刷新";
+"FATGDRefreshHeaderPullingText" = "鬆開立即刷新";
+"FATGDRefreshHeaderRefreshingText" = "正在刷新數據中...";
+
+"FATGDRefreshTrailerIdleText" = "滑動查看圖文詳情";
+"FATGDRefreshTrailerPullingText" = "釋放查看圖文詳情";
+
+"FATGDRefreshAutoFooterIdleText" = "點擊或上拉加載更多";
+"FATGDRefreshAutoFooterRefreshingText" = "正在加載更多的數據...";
+"FATGDRefreshAutoFooterNoMoreDataText" = "已經全部加載完畢";
+
+"FATGDRefreshBackFooterIdleText" = "上拉可以加載更多";
+"FATGDRefreshBackFooterPullingText" = "鬆開立即加載更多";
+"FATGDRefreshBackFooterRefreshingText" = "正在加載更多的數據...";
+"FATGDRefreshBackFooterNoMoreDataText" = "已經全部加載完畢";
+
+"FATGDRefreshHeaderLastTimeText" = "最後更新：";
+"FATGDRefreshHeaderDateTodayText" = "今天";
+"FATGDRefreshHeaderNoneLastDateText" = "無記錄";

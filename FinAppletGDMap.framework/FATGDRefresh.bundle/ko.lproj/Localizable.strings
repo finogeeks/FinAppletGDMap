@@ -1,0 +1,16 @@
+"FATGDRefreshHeaderIdleText" = "아래로 당겨 새로고침";
+"FATGDRefreshHeaderPullingText" = "놓으면 새로고침";
+"FATGDRefreshHeaderRefreshingText" = "로딩중...";
+
+"FATGDRefreshAutoFooterIdleText" = "탭 또는 위로 당겨 로드함";
+"FATGDRefreshAutoFooterRefreshingText" = "로딩중...";
+"FATGDRefreshAutoFooterNoMoreDataText" = "더이상 데이터 없음";
+
+"FATGDRefreshBackFooterIdleText" = "위로 당겨 더 로드 가능";
+"FATGDRefreshBackFooterPullingText" = "놓으면 더 로드됨.";
+"FATGDRefreshBackFooterRefreshingText" = "로딩중...";
+"FATGDRefreshBackFooterNoMoreDataText" = "더이상 데이터 없음";
+
+"FATGDRefreshHeaderLastTimeText" = "마지막 업데이트: ";
+"FATGDRefreshHeaderDateTodayText" = "오늘";
+"FATGDRefreshHeaderNoneLastDateText" = "기록 없음";
